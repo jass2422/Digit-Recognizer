@@ -1,2 +1,2 @@
 # Digit-Recognizer
-Digit Recognizer Nvidia Competition 
+Digit Recognizer Nvidia Competition Day-1
